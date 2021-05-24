@@ -1,4 +1,4 @@
-# bootstrapy_grid
+# Bootstrapy grid
 
 Bootstrap grid with different class names to prevent conflicts.
 Simply add "y" to the end of col and container
